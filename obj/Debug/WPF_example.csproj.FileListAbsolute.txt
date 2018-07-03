@@ -1,0 +1,15 @@
+D:\ZenZoid\Documents\Visual Studio 2017\Projects\WPF_example\WPF_example\bin\Debug\WPF_example.exe.config
+D:\ZenZoid\Documents\Visual Studio 2017\Projects\WPF_example\WPF_example\bin\Debug\WPF_example.exe
+D:\ZenZoid\Documents\Visual Studio 2017\Projects\WPF_example\WPF_example\bin\Debug\WPF_example.pdb
+D:\ZenZoid\Documents\Visual Studio 2017\Projects\WPF_example\WPF_example\obj\Debug\WPF_example.csprojResolveAssemblyReference.cache
+D:\ZenZoid\Documents\Visual Studio 2017\Projects\WPF_example\WPF_example\obj\Debug\MainWindow.g.cs
+D:\ZenZoid\Documents\Visual Studio 2017\Projects\WPF_example\WPF_example\obj\Debug\App.g.cs
+D:\ZenZoid\Documents\Visual Studio 2017\Projects\WPF_example\WPF_example\obj\Debug\WPF_example_MarkupCompile.cache
+D:\ZenZoid\Documents\Visual Studio 2017\Projects\WPF_example\WPF_example\obj\Debug\WPF_example_MarkupCompile.lref
+D:\ZenZoid\Documents\Visual Studio 2017\Projects\WPF_example\WPF_example\obj\Debug\MainWindow.baml
+D:\ZenZoid\Documents\Visual Studio 2017\Projects\WPF_example\WPF_example\obj\Debug\WPF_example.g.resources
+D:\ZenZoid\Documents\Visual Studio 2017\Projects\WPF_example\WPF_example\obj\Debug\WPF_example.Properties.Resources.resources
+D:\ZenZoid\Documents\Visual Studio 2017\Projects\WPF_example\WPF_example\obj\Debug\WPF_example.csproj.GenerateResource.Cache
+D:\ZenZoid\Documents\Visual Studio 2017\Projects\WPF_example\WPF_example\obj\Debug\WPF_example.csproj.CoreCompileInputs.cache
+D:\ZenZoid\Documents\Visual Studio 2017\Projects\WPF_example\WPF_example\obj\Debug\WPF_example.exe
+D:\ZenZoid\Documents\Visual Studio 2017\Projects\WPF_example\WPF_example\obj\Debug\WPF_example.pdb
